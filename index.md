@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+<h3 style="text-align:center;color:#606c71;"><b>Licentiate Thesis</b></h3>
+<h1 style="text-align:center;color:#606c71;"><b>Tree Models for Design Space Exploration in Aerospace Engineering</b></h1>
 
-You can use the [editor on GitHub](https://github.com/dasSiv/test.github.se/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Abstract**
+<p align="justify">The complex engineering design tasks involve multidisciplinary, multidimensional and non-linear data analysis to address the design of components from several aspects. For instance, aircraft designs form large-scale industrial projects involving multidisciplinary studies that address the behavior of the design from mechanical, aerothermal and producibility aspects. The aforementioned analyses have been performed with the help of tools such as CAD (Computer Aided Design) modelling and Finite Element Method (FEM) simulations, and these tools are open to the possibility of embodying and assessing many design configurations early in the designing phase. However, these multidisciplinary tasks may require hundreds or thousands of simulations which is impossible to perform due to the cost and time constraints. Hence, to minimize the number of simulations which is needed to investigate a certain design space, different approaches are used. One of the approaches is surrogate modelling which is also known as response surface modelling and metamodeling (prediction models in machine learning terminology). </p> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="justify">The generation of surrogate models requires a dataset of inputs and known outputs. Since simulations are expensive to conduct, datasets are, as a result, usually small in real-world context. The size of data sets, the high dimensionality and the non-linearity behavior make it difficult to generate accurate enough and robust surrogate models. Furthermore, surrogate models are constructed with numerical data generated from CAD simulations. However, in multi-disciplinary analysis, design engineers add more nominal data that makes it hard to build models with traditional methods such as linear regression and multi adaptive regression splines. Therefore, the challenge is to build an accurate model as accurate as possible that handles all these complexities to support decision making.</p>
 
-### Markdown
+<p align="justify">The goal of the thesis is to support engineers’ decisions in early design space where they analyse design parameters and design configurations of the problem of interest. For this, the thesis aims to explore how tree models can be used to support decision making for design space exploration in a selected aerospace application (i.e., Turbine Rear Structure component in aircraft engine).  The thesis work is conducted in collaboration with GKN aerospace manufacturing industry in Sweden (previously known as Volvo aero). The contribution of the thesis is to evaluate selected supervised learning methods and show their applicability, specifically, random forests for surrogate modelling and sensitivity analysis for design space exploration.</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+**The following papers are included in this thesis**
 
-# Header 1
-## Header 2
-### Header 3
+**Paper I:** 
+<p align="justify">Siva Krishna Dasari, Niklas Lavesson, Petter Andersson, and Marie Persson. "Tree-Based Response Surface Analysis." In Proc. Machine Learning, Optimization, and Big Data, pp. 118-129.  Lecture notes in Computer Science, Volume 9432, 2015.</p>
 
-- Bulleted
-- List
+**Abstract**
+<p align="justify">Computer-simulated experiments have become a cost effective way for engineers to replace real experiments in the area of product development. However, one single computer-simulated experiment can still take a significant amount of time. Hence, in order to minimize the amount of simulations needed to investigate a certain design space, different approaches within the design of experiments area are used. One of the used approaches is to minimize the time consumption and simulations for design space exploration through response surface modeling. The traditional methods used for this purpose are linear regression, quadratic curve fitting and support vector machines. This paper analyses and compares the performance of four machine learning methods for the regression problem of response surface modeling. The four methods are linear regression, support vector machines, M5P and random forests. Experiments are conducted to compare the performance of tree models (M5P and random forests) with the performance of non-tree models (support vector machines and linear regression) on data that is typical for concept evaluation within the aerospace industry. The main finding is that comprehensible models (the tree models) perform at least as well as or better than traditional black-box models (the non-tree models). The first observation of this study is that engineers understand the functional behavior, and the relationship between inputs and outputs, for the concept selection tasks by using comprehensible models. The second observation is that engineers can also increase their knowledge about design concepts, and they can reduce the time for planning and conducting future experiments.</p>
 
-1. Numbered
-2. List
+[conference Link](https://link.springer.com/chapter/10.1007/978-3-319-27926-8_11)
 
-**Bold** and _Italic_ and `Code` text
+**Paper II:** 
+<p align="justify">: Siva Krishna Dasari, Abbas Cheddad and Petter Andersson, “Random Forest Surrogate Models to Support Design Space Exploration in Aerospace Use-case”.  Accepted to 15th international conference on artificial intelligence applications and innovations. </p>
 
-[Link](url) and ![Image](src)
-```
+**Abstract**
+<p align="justify">In engineering, design analyses of complex products rely on computer simulated experiments. However, high-fidelity simulations can take significant time to compute. It is impractical to explore design space by only conducting simulations because of time constraints. Hence, surrogate modelling is used to approximate the original simulations. Since simulations are expensive to conduct, generally, the sample size is limited in aerospace engineering applications. This limited sample size, and also non-linearity and high dimensionality of data make it difficult to generate accurate and robust surrogate models.  The aim of this paper is to explore the applicability of Random Forests (RF) to construct surrogate models to support design space exploration. RF generates meta-models or ensembles of decision trees, and it is capable of fitting highly non-linear data given quite small samples. To investigate the applicability of RF, this paper presents an approach to construct surrogate models using RF. This approach includes hyperparameter tuning to improve the performance of the RF's model,  to extract design parameters' importance and \textit{if-then} rules from the RF's models for better understanding of design space. To demonstrate the approach using RF, quantitative experiments are conducted with datasets of Turbine Rear Structure use-case  from an aerospace industry and results are presented.</p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[conference Link](http://www.aiai2019.eu/)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dasSiv/test.github.se/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Paper III:** 
+<p align="justify">Siva Krishna Dasari, Abbas Cheddad and Petter Andersson, “Predictive Modelling to Support Sensitivity Analysis in Engineering Design” will be submitted to journal </p>
 
-### Support or Contact
+**Abstract**
+<p align="justify">In engineering, design analyses of complex products rely on computer simulated experiments. However, high-fidelity simulations can take significant time to compute. It is impractical to explore design space by only conducting simulations because of time constraints. Hence, surrogate modelling is used to approximate the original simulations. Since simulations are expensive to conduct, generally, the sample size is limited in aerospace engineering applications. This limited sample size, and also non-linearity and high dimensionality of data make it difficult to generate accurate and robust surrogate models.  The aim of this paper is to explore the applicability of Random Forests (RF) to construct surrogate models to support design space exploration. RF generates meta-models or ensembles of decision trees, and it is capable of fitting highly non-linear data given quite small samples. To investigate the applicability of RF, this paper presents an approach to construct surrogate models using RF. This approach includes hyperparameter tuning to improve the performance of the RF's model,  to extract design parameters' importance and \textit{if-then} rules from the RF's models for better understanding of design space. To demonstrate the approach using RF, quantitative experiments are conducted with datasets of Turbine Rear Structure use-case  from an aerospace industry and results are presented.</p>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+**Paper IV:** 
+<p align="justify">Alessandro Bertoni, Sophie Hallstedt, Siva Krishna Dasari and Petter Andersson,” Integration of Value and Sustainability Assessment in Design Space Exploration by Machine Learning: An Aerospace Application” submitted to Design Science journal in 10th October 2018 and it is under review process.</p>
+
+**Abstract**
+<p align="justify">The paper presents an approach to integrate value and sustainability assessment during the design space exploration in aerospace product development. The approach complements the results of computer-aidedengineering simulations with the results of value driven design and sustainable product development models. Machine learning is introduced as technology enabler capable of dealing with the heterogeneity of data and to create surrogate models for faster design space exploration. The approach has been developed in collaboration with a major aerospace sub-system manufacturer and implemented in the case of the development of an aircraft engine component. </p>
