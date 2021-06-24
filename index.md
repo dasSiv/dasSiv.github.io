@@ -8,7 +8,8 @@
 
 <p align="justify">The first part of the thesis focuses on addressing challenges in design data when building surrogate models. For this, the thesis explores, evaluates, and improves tree models for design space exploration. The second part of the thesis focuses on addressing challenges in process data when building defect classification models. For this, the thesis (1) investigates the performance of selected handcrafted feature extraction techniques, (2) proposes an oversampling technique to balance process datasets, and (1) proposes an active learning approach for labelling data.</p>  
 
-**The first version of the thesis draft is available in the following link 
+**The first version of the thesis draft is available in the following link:
+
 [Thesis Draft Link](https://bthse-my.sharepoint.com/:b:/g/personal/skd_bth_se/EQbCdgrJsodOq_e_P2GhZjMBKrWQbgLJOEGB6xNV2oTaHg?e=E3aOe8)**
 
 **The following papers are included in this thesis**
