@@ -6,7 +6,7 @@
 
 <p align="justify">The thesis goal is to support engineers in the early design and manufacturing phases of aircraft engine components via (1) surrogate modelling for the purpose of exploration of larger search spaces and for speeding up the evaluation of design configurations, and (2) defects classification to support in-situ quality control to speed up defects analysis.</p>  
 
-<p align="justify">The first part of the thesis focuses on addressing challenges in design data when building surrogate models. For this, the thesis explores, evaluates, and improves tree models for design space exploration. The second part of the thesis focuses on addressing challenges in process data when building defect classification models. For this, the thesis (1) investigates the performance of selected handcrafted feature extraction techniques, (2) proposes an oversampling technique to balance process datasets, and (1) proposes an active learning approach for labelling data.</p>  
+<p align="justify">The first part of the thesis focuses on addressing challenges in design data when building surrogate models. For this, the thesis explores, evaluates, and improves tree models for design space exploration. The second part of the thesis focuses on addressing challenges in process data when building defect classification models. For this, the thesis (1) investigates the performance of selected handcrafted feature extraction techniques, (2) proposes an oversampling technique to balance process datasets, and (1) proposes an active learning approach for labelling data.</p>   
 
 **The first version of the thesis draft is available in the following link:**
 
