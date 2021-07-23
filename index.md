@@ -12,7 +12,7 @@
 
 [Thesis Draft Link](https://bthse-my.sharepoint.com/:b:/g/personal/skd_bth_se/ETZNpusQklVEt8cWT9I9R-gBg8JiG7dL-uizfN4E69NZEw?e=fOhzwR)
 
-**The following papers are included in this thesis**
+**The following papers are included in this thesis** 
 
 **Paper I:** 
 <p align="justify">Siva Krishna Dasari, Niklas Lavesson, Petter Andersson, and Marie Persson. "Tree-Based Response Surface Analysis." In Proc. Machine Learning, Optimization, and Big Data, pp. 118-129.  Lecture notes in Computer Science, Volume 9432, 2015.</p>
