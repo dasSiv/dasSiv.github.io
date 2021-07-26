@@ -1,6 +1,4 @@
 theme: jekyll-theme-cayman 
 title: Siva Krishna Dasari's PhD Thesis
 description: Blekinge Tekniska Högskola, Department of Computer Science 
-sass:
-  sass_dir: _sass
-  style: compressed
+
