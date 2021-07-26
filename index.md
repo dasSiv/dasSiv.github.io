@@ -10,7 +10,7 @@
 
 **The first version of the thesis draft is available in the following link:**
 
-[Thesis Draft Link updated] 
+[Thesis Draft Link updated](https://link.springer.com/chapter/10.1007/978-3-319-27926-8_11)
 
 **The following papers are included in this thesis** 
   
