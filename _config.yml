@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
+gem "github-pages", group: :jekyll_plugins
 title: Siva Krishna Dasari's PhD Dissertation
 description: Predictive Modelling for Design and Manufacturing Data in Aerospace Engineering
