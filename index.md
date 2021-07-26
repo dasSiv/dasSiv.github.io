@@ -45,7 +45,7 @@
 **Abstract**
 <p align="justify">One of the crucial aspects of additive manufacturing is the monitoring of the welding process for quality assurance of components. A common way to analyse the welding process is through visual inspection of melt-pool images to identify possible defects in manufacturing. Recent literature studies showed the potential use of prediction models for defects classification to speed up the manual verification criteria since a huge data is generated from the additive manufacturing. Although a huge image data is available, the data needs to be labelled manually by experts which results in small sample datasets. Hence, to model small sample sizes and also to acquire the importance of parameters, we opted a traditional machine learning method, Random Forests (RF). For feature extraction, we opted for the Polar Transformation to explore its applicability using the melt-pool image dataset and a publicly available shape image dataset. The results show that RF models with Polar Transformation performed the best on our case study datasets and the second-best for the public dataset when compared to the Histogram of Oriented Gradients, HARALICK, XY-projections of an image, and Local Binary Patterns methods. As such, the Polar Transformation can be considered as a suitable compact shape descriptor.</p>
 
-[Conference Link](https://ieeexplore.ieee.org/document/9311555)
+[Conference Link](https://ieeexplore.ieee.org/document/9311555) 
 
 **Paper V:** 
 <p align="justify">Siva Krishna Dasari, Abbas Cheddad, Jonatan Palmquist and Lars Lundberg. “Clustering-based Adaptive Data Aug-mentation for Class-imbalance in Machine Learning (CADA): Additive Manufacturing Use-case”.  Submitted to journal, 2021.</p>
