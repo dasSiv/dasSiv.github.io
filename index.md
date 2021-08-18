@@ -12,7 +12,6 @@
 
 [Thesis Draft Link updated: 2021-08-18](https://bthse-my.sharepoint.com/:b:/g/personal/skd_bth_se/Ecqy35v08uBDm5BlODneMSwBh11ljr1QeHTneSunoySm_w?e=ygn71J)
 
-
 **The following papers are included in this thesis** 
   
 **Paper I:** 
