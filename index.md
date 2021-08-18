@@ -14,6 +14,7 @@
 
 [Thesis Draft Link updated: 2021-08-18](https://bthse-my.sharepoint.com/:b:/g/personal/skd_bth_se/Ecqy35v08uBDm5BlODneMSwBh11ljr1QeHTneSunoySm_w?e=ygn71J)
 
+
 **The following papers are included in this thesis** 
   
 **Paper I:** 
@@ -60,5 +61,5 @@
 <p align="justify">Preliminary title: Active Learning to Support In-situ Quality Control in Additive Manufacturing (It will be submitted to a conference).</p>
 
 **Abstract**
-<p align="justify">This paper aims to address data labelling issues in process data to support in-situ process monitoring of additive manufactured components. For this, we adopted active learning (AL) approach to minimise the manual effort for data labelling to build classification models. In this study, we presented an approach that utilizes pre-trained models to extract deep features from images, and clustering and query by committee sampling to select the representative samples to build defect classification models. We conducted quantitative experiments to evaluate the proposed method's performance and compare it with other selected state-of-the-art AL approaches using a dataset of additive manufacturing (AM) and a publicly available dataset. The experimental results showed that the proposed approach outperformed AL with committee based sampling, and AL with clustering and random sampling. The results of the statistical significance test show that there is a significant difference between the studied AL approaches. Hence, the proposed AL approach can be considered an alternative method to reduce labelling costs when building defects classification models. </p> 
+<p align="justify">This paper aims to address data labelling issues in process data to support in-situ process monitoring of additive manufactured components. For this, we adopted an active learning (AL) approach to minimise the manual effort for data labelling for classification models. In this study, we present an approach that utilises pre-trained models to extract deep features from images, and clustering and query by committee sampling to select the representative samples to build defect classification models. We conduct quantitative experiments to evaluate the proposed method's performance and compare it with other selected state-of-the-art AL approaches using a dataset of additive manufacturing (AM) and a publicly available dataset. The experimental results show that the proposed approach outperforms AL with committee based sampling, and AL with clustering and random sampling. The results of the statistical significance test show that there is a significant difference between the studied AL approaches. Hence, the proposed AL approach can be considered an alternative method to reduce labelling costs when building defects classification models, whose generalizability is most likely plausible. </p> 
  
