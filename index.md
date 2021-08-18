@@ -10,8 +10,6 @@
 
 **The first version of the thesis draft is available in the following link:**
 
-[Thesis Draft Link updated: 2021-08-15](https://bthse-my.sharepoint.com/:b:/g/personal/skd_bth_se/ESwqMj_50phIqzUoZtc7st8B6igGrJRL2EsFRk7RkyAcJA?e=MZz2aS)
-
 [Thesis Draft Link updated: 2021-08-18](https://bthse-my.sharepoint.com/:b:/g/personal/skd_bth_se/Ecqy35v08uBDm5BlODneMSwBh11ljr1QeHTneSunoySm_w?e=ygn71J)
 
 
