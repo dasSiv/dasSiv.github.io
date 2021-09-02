@@ -10,7 +10,7 @@
 
 **The first version of the thesis draft is available in the following link:**
 
-[Thesis Draft Link updated: 2021-08-27](https://bthse-my.sharepoint.com/:b:/g/personal/skd_bth_se/EfvKzkAfMT9Ir6dTjwBVDuMBA7Sdz52_NyN2ZzlvW8zuTA?e=jWD2GC)
+[Thesis Draft Link updated: 2021-09-02](https://bthse-my.sharepoint.com/:b:/g/personal/skd_bth_se/ESSazJ7sOFRLlbJNxsk2QbgBJ097YI90fkAUL1OEilNhLQ?e=RHdllh)
 
 **The following papers are included in this thesis** 
   
