@@ -55,7 +55,7 @@
 
 
 **Paper VI:** 
-<p align="justify">Siva Krishna Dasari, Abbas Cheddad, Jonatan Palmquist and Lars Lundberg. "Active Learning to Support In-situ Quality Control in Additive Manufacturing" “Active Learning to Support In-situ Process Monitoring in Additive Manufacturing”. In 20th IEEE International Conference on Machine Learning and Applications, 2021 (Accepted).</p> 
+<p align="justify">Siva Krishna Dasari, Abbas Cheddad, Lars Lundberg and Jonatan Palmquist. "Active Learning to Support In-situ Quality Control in Additive Manufacturing" “Active Learning to Support In-situ Process Monitoring in Additive Manufacturing”. In 20th IEEE International Conference on Machine Learning and Applications, 2021 (Accepted).</p> 
 
 
 **Abstract**
