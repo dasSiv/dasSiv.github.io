@@ -10,7 +10,7 @@
 
 **The first version of the thesis draft is available in the following link:**
 
-[Thesis Draft Link updated: 2021-09-02](https://bthse-my.sharepoint.com/:b:/g/personal/skd_bth_se/ESSazJ7sOFRLlbJNxsk2QbgBJ097YI90fkAUL1OEilNhLQ?e=RHdllh)
+[Final Thesis Draft](https://bthse-my.sharepoint.com/:b:/g/personal/skd_bth_se/ERrHJwkm__ZIkB7EWV0qXkQBZivpNtyfdfmGGFrdDf6YRg?e=epcA0f)
 
 **The following papers are included in this thesis** 
   
@@ -55,7 +55,7 @@
 
 
 **Paper VI:** 
-<p align="justify">Preliminary title: Active Learning to Support In-situ Quality Control in Additive Manufacturing (It will be submitted to a conference).</p> 
+<p align="justify">Siva Krishna Dasari, Abbas Cheddad, Jonatan Palmquist and Lars Lundberg. "Active Learning to Support In-situ Quality Control in Additive Manufacturing" “Active Learning to Support In-situ Process Monitoring in Additive Manufacturing”. In 20th IEEE International Conference on Machine Learning and Applications, 2021 (Accepted).</p> 
 
 
 **Abstract**
